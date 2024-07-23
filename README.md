@@ -1,19 +1,22 @@
 # GarfieldOS
-A Garfield themed Operating System  
+Customize your Ubuntu Install with one script.
+
 Work in Progress...  
 
 `Screenshots coming someday`
 
 ## General Information
 
-idk
+1. Install Ubuntu on your Machine
+2. Run the script
+3. ???
+4. Garfield
 
 ## Planned Features 
 
 - Garfield Themed Wallpapers
 - Tasteful Orange color palette
 - Neofetch Logo
-- Lots of Garfield themed goodies
 - Unique Font
 - Monday :]
 
